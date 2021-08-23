@@ -1,0 +1,16 @@
+@font-face{
+	 font-family: mySpecialFont;
+	 src: url('fahad.ttf');
+ }
+ 
+ h1, span{
+    color: #ff00ff;
+	font-family: mySpecialFont;
+	background-color: #007bfe;
+	text-align: center;
+   }
+   
+ h1{
+    font-variant: small-caps;
+	line-height: 120%;
+   }
